@@ -1,7 +1,7 @@
 ﻿using System;
 namespace LibraryManagementSystem.Models
 {
-    public class BorrowedRecord
+    public class BorrowRecord
     {
         public int Id { get; set; }
         public int BookId { get; set; }

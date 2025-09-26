@@ -8,9 +8,9 @@ namespace LibraryManagementSystem.Data
 	{
 		public LibraryDbContext(DbContextOptions<LibraryDbContext> options) : base(options) { }
 
-		DbSet<Book> Books { get; set; }
-		DbSet<Member> Members { get; set; }
-		DbSet<BorrowedRecord> BorrowedRecords { get; set; }
+		public DbSet<Book> Books { get; set; }
+		public DbSet<Member> Members { get; set; }
+        public DbSet<BorrowRecord> BorrowRecords { get; set; }
 	}
 }
 
