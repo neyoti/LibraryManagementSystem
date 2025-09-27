@@ -2,3 +2,7 @@
 bin/
 obj/
 .DS_Store
+LibraryManagementSystem/.vs/
+bin/
+obj/
+LibraryManagementSystem/.DS_Store
