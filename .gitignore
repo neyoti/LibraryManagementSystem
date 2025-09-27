@@ -1,8 +1,7 @@
 .vs/
+*.user
+*.suo
 bin/
 obj/
 .DS_Store
-*.vs/
-bin/
-*obj/
-*/.DS_Store
+
