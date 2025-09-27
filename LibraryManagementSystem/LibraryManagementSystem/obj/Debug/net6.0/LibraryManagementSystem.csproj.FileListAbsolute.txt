@@ -1,0 +1,7 @@
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUMIT\OneDrive\Desktop\AmitProject\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
